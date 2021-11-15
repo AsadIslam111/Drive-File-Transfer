@@ -1,0 +1,11 @@
+To  Copy  Google Drive shared file from My Drive.
+
+1.   Create Shortcut Of Shared Folder To My Drive
+2.   Connect Colab & wait for Connected status
+3.   Mount Drive from left sidebar Folder Icon 
+4.   Copy file location and paste in destination location 
+5.   Create a code cell & paste that line 
+        
+             !sudo cp -v -r "Shared File location/" "Destination" 
+
+6. Run the Cell
