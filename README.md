@@ -1,1 +1,1 @@
-Can be used for tranfer shared file to my drive 
+Can be used for transfer google drive shared file to my drive 
