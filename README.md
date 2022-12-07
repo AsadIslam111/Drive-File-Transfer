@@ -1,6 +1,6 @@
 1.Add a shortcut of shared file to "My Drive" from google drive Page.
 
-2.Open Colab From Here   <a target="_blank" href="https://github.com/AsadIslam111/Drive-File-Transfer/blob/main/Shared%20File%20Transfer.ipynb">
+2.Open Colab From Here   <a target="_blank" href="https://colab.research.google.com/gist/AsadIslam111/d544d02a41822c4ecb1bd14b7d0c668a/shared-file-transfer.ipynb">
  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
